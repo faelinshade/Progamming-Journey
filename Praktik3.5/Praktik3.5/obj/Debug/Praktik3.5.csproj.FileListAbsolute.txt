@@ -1,0 +1,8 @@
+D:\c#RmfXpplg1\Praktik3.5\Praktik3.5\bin\Debug\Praktik3.5.exe.config
+D:\c#RmfXpplg1\Praktik3.5\Praktik3.5\bin\Debug\Praktik3.5.exe
+D:\c#RmfXpplg1\Praktik3.5\Praktik3.5\bin\Debug\Praktik3.5.pdb
+D:\c#RmfXpplg1\Praktik3.5\Praktik3.5\obj\Debug\Praktik3.5.csproj.AssemblyReference.cache
+D:\c#RmfXpplg1\Praktik3.5\Praktik3.5\obj\Debug\Praktik3.5.csproj.CoreCompileInputs.cache
+D:\c#RmfXpplg1\Praktik3.5\Praktik3.5\obj\Debug\Praktik3.5.exe
+D:\c#RmfXpplg1\Praktik3.5\Praktik3.5\obj\Debug\Praktik3.5.pdb
+D:\c#RmfXpplg1\Praktik3.5\Praktik3.5\obj\Debug\Praktik3.5.exe.config
