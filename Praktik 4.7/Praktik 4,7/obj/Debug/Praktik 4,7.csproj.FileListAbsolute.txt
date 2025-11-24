@@ -1,0 +1,7 @@
+D:\c#RmfXpplg1\Praktik 4,7\Praktik 4,7\bin\Debug\Praktik 4,7.exe.config
+D:\c#RmfXpplg1\Praktik 4,7\Praktik 4,7\bin\Debug\Praktik 4,7.exe
+D:\c#RmfXpplg1\Praktik 4,7\Praktik 4,7\bin\Debug\Praktik 4,7.pdb
+D:\c#RmfXpplg1\Praktik 4,7\Praktik 4,7\obj\Debug\Praktik 4,7.csproj.AssemblyReference.cache
+D:\c#RmfXpplg1\Praktik 4,7\Praktik 4,7\obj\Debug\Praktik 4,7.csproj.CoreCompileInputs.cache
+D:\c#RmfXpplg1\Praktik 4,7\Praktik 4,7\obj\Debug\Praktik 4,7.exe
+D:\c#RmfXpplg1\Praktik 4,7\Praktik 4,7\obj\Debug\Praktik 4,7.pdb
