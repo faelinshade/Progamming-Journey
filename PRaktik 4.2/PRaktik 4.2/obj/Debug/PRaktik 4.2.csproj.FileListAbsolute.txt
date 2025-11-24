@@ -1,0 +1,7 @@
+D:\c#RmfXpplg1\PRaktik 4.2\PRaktik 4.2\obj\Debug\PRaktik 4.2.csproj.AssemblyReference.cache
+D:\c#RmfXpplg1\PRaktik 4.2\PRaktik 4.2\obj\Debug\PRaktik 4.2.csproj.CoreCompileInputs.cache
+D:\c#RmfXpplg1\PRaktik 4.2\PRaktik 4.2\bin\Debug\PRaktik 4.2.exe.config
+D:\c#RmfXpplg1\PRaktik 4.2\PRaktik 4.2\bin\Debug\PRaktik 4.2.exe
+D:\c#RmfXpplg1\PRaktik 4.2\PRaktik 4.2\bin\Debug\PRaktik 4.2.pdb
+D:\c#RmfXpplg1\PRaktik 4.2\PRaktik 4.2\obj\Debug\PRaktik 4.2.exe
+D:\c#RmfXpplg1\PRaktik 4.2\PRaktik 4.2\obj\Debug\PRaktik 4.2.pdb

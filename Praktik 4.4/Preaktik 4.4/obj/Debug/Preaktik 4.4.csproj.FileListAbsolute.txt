@@ -1,0 +1,7 @@
+D:\c#RmfXpplg1\Preaktik 4.4\Preaktik 4.4\bin\Debug\Preaktik 4.4.exe.config
+D:\c#RmfXpplg1\Preaktik 4.4\Preaktik 4.4\bin\Debug\Preaktik 4.4.exe
+D:\c#RmfXpplg1\Preaktik 4.4\Preaktik 4.4\bin\Debug\Preaktik 4.4.pdb
+D:\c#RmfXpplg1\Preaktik 4.4\Preaktik 4.4\obj\Debug\Preaktik 4.4.csproj.AssemblyReference.cache
+D:\c#RmfXpplg1\Preaktik 4.4\Preaktik 4.4\obj\Debug\Preaktik 4.4.csproj.CoreCompileInputs.cache
+D:\c#RmfXpplg1\Preaktik 4.4\Preaktik 4.4\obj\Debug\Preaktik 4.4.exe
+D:\c#RmfXpplg1\Preaktik 4.4\Preaktik 4.4\obj\Debug\Preaktik 4.4.pdb
