@@ -1,0 +1,7 @@
+D:\c#RmfXpplg1\praktik 3.6\praktik 3.6\bin\Debug\praktik 3.6.exe.config
+D:\c#RmfXpplg1\praktik 3.6\praktik 3.6\bin\Debug\praktik 3.6.exe
+D:\c#RmfXpplg1\praktik 3.6\praktik 3.6\bin\Debug\praktik 3.6.pdb
+D:\c#RmfXpplg1\praktik 3.6\praktik 3.6\obj\Debug\praktik 3.6.csproj.AssemblyReference.cache
+D:\c#RmfXpplg1\praktik 3.6\praktik 3.6\obj\Debug\praktik 3.6.csproj.CoreCompileInputs.cache
+D:\c#RmfXpplg1\praktik 3.6\praktik 3.6\obj\Debug\praktik 3.6.exe
+D:\c#RmfXpplg1\praktik 3.6\praktik 3.6\obj\Debug\praktik 3.6.pdb
