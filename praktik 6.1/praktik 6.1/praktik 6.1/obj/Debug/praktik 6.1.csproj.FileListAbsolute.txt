@@ -1,0 +1,7 @@
+C:\praktik\praktik 6.1\praktik 6.1\bin\Debug\praktik 6.1.exe.config
+C:\praktik\praktik 6.1\praktik 6.1\bin\Debug\praktik 6.1.exe
+C:\praktik\praktik 6.1\praktik 6.1\bin\Debug\praktik 6.1.pdb
+C:\praktik\praktik 6.1\praktik 6.1\obj\Debug\praktik 6.1.csproj.AssemblyReference.cache
+C:\praktik\praktik 6.1\praktik 6.1\obj\Debug\praktik 6.1.csproj.CoreCompileInputs.cache
+C:\praktik\praktik 6.1\praktik 6.1\obj\Debug\praktik 6.1.exe
+C:\praktik\praktik 6.1\praktik 6.1\obj\Debug\praktik 6.1.pdb
