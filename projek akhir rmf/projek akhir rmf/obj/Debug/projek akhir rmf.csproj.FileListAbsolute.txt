@@ -1,0 +1,7 @@
+C:\projek akhir\projek akhir rmf\projek akhir rmf\bin\Debug\projek akhir rmf.exe.config
+C:\projek akhir\projek akhir rmf\projek akhir rmf\bin\Debug\projek akhir rmf.exe
+C:\projek akhir\projek akhir rmf\projek akhir rmf\bin\Debug\projek akhir rmf.pdb
+C:\projek akhir\projek akhir rmf\projek akhir rmf\obj\Debug\projek akhir rmf.csproj.AssemblyReference.cache
+C:\projek akhir\projek akhir rmf\projek akhir rmf\obj\Debug\projek akhir rmf.csproj.CoreCompileInputs.cache
+C:\projek akhir\projek akhir rmf\projek akhir rmf\obj\Debug\projek akhir rmf.exe
+C:\projek akhir\projek akhir rmf\projek akhir rmf\obj\Debug\projek akhir rmf.pdb
