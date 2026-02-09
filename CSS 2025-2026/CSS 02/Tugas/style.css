@@ -1,0 +1,19 @@
+body {
+  background-color: #eeee;
+  margin: 20px;
+}
+h1 {
+  color: #444;
+  text-align: center;
+}
+.Fadhil {
+  color: #aa3333;
+  font-weight: bold;
+}
+* {
+  color: #aa3333;
+}
+#Fael {
+  font-family: "Times New Roman", Times, serif;
+  color: crimson;
+}
