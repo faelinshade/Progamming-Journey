@@ -1,7 +1,0 @@
-D:\c#RmfXpplg1\praktik 5.4\praktik 5.4\bin\Debug\praktik 5.4.exe.config
-D:\c#RmfXpplg1\praktik 5.4\praktik 5.4\bin\Debug\praktik 5.4.exe
-D:\c#RmfXpplg1\praktik 5.4\praktik 5.4\bin\Debug\praktik 5.4.pdb
-D:\c#RmfXpplg1\praktik 5.4\praktik 5.4\obj\Debug\praktik 5.4.csproj.AssemblyReference.cache
-D:\c#RmfXpplg1\praktik 5.4\praktik 5.4\obj\Debug\praktik 5.4.csproj.CoreCompileInputs.cache
-D:\c#RmfXpplg1\praktik 5.4\praktik 5.4\obj\Debug\praktik 5.4.exe
-D:\c#RmfXpplg1\praktik 5.4\praktik 5.4\obj\Debug\praktik 5.4.pdb

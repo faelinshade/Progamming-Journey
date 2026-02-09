@@ -1,0 +1,7 @@
+D:\c#RmfXpplg1\Praktik 7.1\Praktik 7.1\bin\Debug\Praktik 7.1.exe.config
+D:\c#RmfXpplg1\Praktik 7.1\Praktik 7.1\bin\Debug\Praktik 7.1.exe
+D:\c#RmfXpplg1\Praktik 7.1\Praktik 7.1\bin\Debug\Praktik 7.1.pdb
+D:\c#RmfXpplg1\Praktik 7.1\Praktik 7.1\obj\Debug\Praktik 7.1.csproj.AssemblyReference.cache
+D:\c#RmfXpplg1\Praktik 7.1\Praktik 7.1\obj\Debug\Praktik 7.1.csproj.CoreCompileInputs.cache
+D:\c#RmfXpplg1\Praktik 7.1\Praktik 7.1\obj\Debug\Praktik 7.1.exe
+D:\c#RmfXpplg1\Praktik 7.1\Praktik 7.1\obj\Debug\Praktik 7.1.pdb

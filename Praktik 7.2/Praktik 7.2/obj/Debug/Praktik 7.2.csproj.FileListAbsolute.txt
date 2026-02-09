@@ -1,7 +1,0 @@
-D:\c#RmfXpplg1\Praktik 7.2\Praktik 7.2\bin\Debug\Praktik 7.2.exe.config
-D:\c#RmfXpplg1\Praktik 7.2\Praktik 7.2\bin\Debug\Praktik 7.2.exe
-D:\c#RmfXpplg1\Praktik 7.2\Praktik 7.2\bin\Debug\Praktik 7.2.pdb
-D:\c#RmfXpplg1\Praktik 7.2\Praktik 7.2\obj\Debug\Praktik 7.2.csproj.AssemblyReference.cache
-D:\c#RmfXpplg1\Praktik 7.2\Praktik 7.2\obj\Debug\Praktik 7.2.csproj.CoreCompileInputs.cache
-D:\c#RmfXpplg1\Praktik 7.2\Praktik 7.2\obj\Debug\Praktik 7.2.exe
-D:\c#RmfXpplg1\Praktik 7.2\Praktik 7.2\obj\Debug\Praktik 7.2.pdb

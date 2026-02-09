@@ -1,7 +1,0 @@
-D:\c#RmfXpplg1\praktik 2.1\praktik 2.1\bin\Debug\praktik 2.1.exe.config
-D:\c#RmfXpplg1\praktik 2.1\praktik 2.1\bin\Debug\praktik 2.1.exe
-D:\c#RmfXpplg1\praktik 2.1\praktik 2.1\bin\Debug\praktik 2.1.pdb
-D:\c#RmfXpplg1\praktik 2.1\praktik 2.1\obj\Debug\praktik 2.1.csproj.AssemblyReference.cache
-D:\c#RmfXpplg1\praktik 2.1\praktik 2.1\obj\Debug\praktik 2.1.csproj.CoreCompileInputs.cache
-D:\c#RmfXpplg1\praktik 2.1\praktik 2.1\obj\Debug\praktik 2.1.exe
-D:\c#RmfXpplg1\praktik 2.1\praktik 2.1\obj\Debug\praktik 2.1.pdb

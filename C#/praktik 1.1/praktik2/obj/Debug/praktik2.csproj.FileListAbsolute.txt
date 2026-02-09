@@ -1,0 +1,8 @@
+D:\c#RmfXpplg1\praktik2\praktik2\bin\Debug\praktik2.exe.config
+D:\c#RmfXpplg1\praktik2\praktik2\bin\Debug\praktik2.exe
+D:\c#RmfXpplg1\praktik2\praktik2\bin\Debug\praktik2.pdb
+D:\c#RmfXpplg1\praktik2\praktik2\obj\Debug\praktik2.csproj.AssemblyReference.cache
+D:\c#RmfXpplg1\praktik2\praktik2\obj\Debug\praktik2.csproj.CoreCompileInputs.cache
+D:\c#RmfXpplg1\praktik2\praktik2\obj\Debug\praktik2.exe
+D:\c#RmfXpplg1\praktik2\praktik2\obj\Debug\praktik2.pdb
+D:\c#RmfXpplg1\praktik2\praktik2\obj\Debug\praktik2.exe.config

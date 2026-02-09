@@ -1,7 +1,0 @@
-D:\c#RmfXpplg1\Praktik 7.3\Praktik 7.3\bin\Debug\Praktik 7.3.exe.config
-D:\c#RmfXpplg1\Praktik 7.3\Praktik 7.3\bin\Debug\Praktik 7.3.exe
-D:\c#RmfXpplg1\Praktik 7.3\Praktik 7.3\bin\Debug\Praktik 7.3.pdb
-D:\c#RmfXpplg1\Praktik 7.3\Praktik 7.3\obj\Debug\Praktik 7.3.csproj.AssemblyReference.cache
-D:\c#RmfXpplg1\Praktik 7.3\Praktik 7.3\obj\Debug\Praktik 7.3.csproj.CoreCompileInputs.cache
-D:\c#RmfXpplg1\Praktik 7.3\Praktik 7.3\obj\Debug\Praktik 7.3.exe
-D:\c#RmfXpplg1\Praktik 7.3\Praktik 7.3\obj\Debug\Praktik 7.3.pdb
