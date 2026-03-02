@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  color: navy;
+}
+
+.kotak {
+  padding: 20px;
+  margin: 10px 0;
+  border-radius: 8px;
+}
+
+/* 1. Nama Warna */
+.nama-warna {
+  background-color: tomato;
+  color: white;
+}
+
+/* 2. RGB */
+.rgb-warna {
+  background-color: rgb(52, 152, 219);
+  color: rgb(255, 255, 255);
+}
+
+/* 3. RGBA */
+.rgba-warna {
+  background-color: rgba(231, 76, 60, 0.6);
+  color: rgba(0, 0, 0, 0.85);
+}
+
+/* 4. HSL */
+.hsl-warna {
+  background-color: hsl(145, 63%, 42%);
+  color: hsl(0, 0%, 100%);
+}
+
+/* 5. HSLA */
+.hsla-warna {
+  background-color: hsla(270, 70%, 50%, 0.75);
+  color: hsla(0, 0%, 100%, 1);
+}
