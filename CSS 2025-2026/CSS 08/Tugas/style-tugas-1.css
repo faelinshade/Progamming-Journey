@@ -1,0 +1,22 @@
+h1 {
+  width: 500px;
+  height: 200px;
+  font-size: 30px;
+  text-align: center;
+  background-color: lightblue;
+}
+p {
+  font-size: 20pt;
+  background-color: lightcoral;
+}
+.box1 {
+  width: 5cm;
+  height: 2cm;
+  background-color: lightblue;
+  margin-bottom: 10px;
+}
+.box2 {
+  width: 10cm;
+  height: 4cm;
+  background-color: lightcoral;
+}

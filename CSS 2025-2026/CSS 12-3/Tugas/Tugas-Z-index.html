@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Z-Index - Tumpukan Gambar</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+        text-align: center;
+        padding: 30px;
+      }
+
+      h1 {
+        margin-bottom: 10px;
+      }
+
+      p {
+        color: #555;
+        margin-bottom: 40px;
+      }
+
+      .container {
+        position: relative;
+        width: 400px;
+        height: 350px;
+        margin: 0 auto;
+      }
+
+      .gambar {
+        position: absolute;
+        width: 220px;
+        height: 270px;
+        border: 3px solid white;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+      }
+
+      .gambar img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+
+      .gambar-1 {
+        z-index: 1;
+        top: 60px;
+        left: 0px;
+        transform: rotate(-10deg);
+        background-color: #ccc;
+      }
+
+      .gambar-2 {
+        z-index: 2;
+        top: 30px;
+        left: 90px;
+        transform: rotate(0deg);
+        background-color: #aaa;
+      }
+
+      .gambar-3 {
+        z-index: 3;
+        top: 50px;
+        left: 175px;
+        transform: rotate(8deg);
+        background-color: #999;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Contoh Z-Index CSS</h1>
+    <p>Tiga gambar yang saling menumpuk menggunakan properti z-index</p>
+
+    <div class="container">
+      <div class="gambar gambar-1">
+        <img src="gambar1.jpg" alt="Gambar 1" />
+      </div>
+      <div class="gambar gambar-2">
+        <img src="gambar2.jpg" alt="Gambar 2" />
+      </div>
+      <div class="gambar gambar-3">
+        <img src="gambar3.jpg" alt="Gambar 3" />
+      </div>
+    </div>
+  </body>
+</html>
